@@ -1,0 +1,4 @@
+.env
+.ide
+db_conf/
+db_data/
